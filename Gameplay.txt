@@ -1,0 +1,6 @@
+RPG - action
+
+Turn-based combat
+	no queue (ffx-2)
+		speed timer for everyone, speed timer continues while planning attack
+		
