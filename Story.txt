@@ -2,4 +2,39 @@ Space is a no go (dead space) (mass effect) (doom)
 
 Not medieval (fire emblem) (dark souls) (elder scrolls) (dragon age)
 
-Steampunk
+Steampunk style (ff7) (Dishonored) (ffx-2) (ff6)
+
+different worlds
+
+Mystic story
+	tame beasts throughout the journey
+		each beast tamed reveals a story (each one is a mystic)
+	end is save humans or mystics
+		save humans
+			fight mystic party members
+			after battle, guide (guard) turns into beast (have to fight him)
+		save mystics
+			fight human party members
+			after battle, best friend fights you as last effort
+		final battles (1v1)
+			you summon beasts (all summons must be used to win battles)
+			beasts will die for good (beasts explain how they will no longer exist)
+				beasts will be on your side since you showed mercy
+
+Order of events:
+	-Story arc (direciton of game)
+	-basic style
+		2d (youtube tutorial) (matt) 
+		3d (making an environment) (movable character) (camera) (vk)
+		Animation scene (vk)
+	-character development
+		-characters
+		-story board
+			-intros
+			-traits
+			-end game
+	-battle system
+	-beast development
+		-background
+		-current dialogue
+		-end game
